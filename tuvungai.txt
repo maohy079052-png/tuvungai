@@ -1,0 +1,12 @@
+<div class="vocabulary-container">
+  <ul>
+    <li><b>Artificial Intelligence (AI):</b> /ˌɑːtɪˈfɪʃl ɪnˈtelɪɡəns/ (Trí tuệ nhân tạo)</li>
+    <li><b>Facial Recognition:</b> /ˈfeɪʃl ˌrekəɡˈnɪʃn/ (Nhận diện khuôn mặt)</li>
+    <li><b>Chatbot:</b> /ˈtʃætbɒt/ (Robot trò chuyện tự động)</li>
+    <li><b>Virtual Reality (VR):</b> /ˌvɜːtʃuəl riˈæləti/ (Thực tế ảo)</li>
+    <li><b>Activate:</b> /ˈæktɪveɪt/ (Kích hoạt)</li>
+    <li><b>Smart app:</b> /smɑːt æp/ (Ứng dụng thông minh)</li>
+    <li><b>Platform:</b> /ˈplætfɔːm/ (Nền tảng)</li>
+    <li><b>Technician:</b> /tekˈnɪʃn/ (Kỹ thuật viên)</li>
+  </ul>
+</div>
